@@ -1,0 +1,19 @@
+For Twitter
+-To utilize APIs to retrieve 1000 tweets using a particular hashtag (test case:
+#mitsubishi)
+
+For Python
+-Should be able to receive test tweets
+-Tweets should be sorted between "Funny" or "Not Funny" sentiments (Logic creation
+is under my jurisdiction)
+-Output is an XLS file with sentiment (Sample is in email)
+-Code should be submitted to Git repository (FrozenTurkeySkin?)
+
+Optional
+-Data can be sent over an email
+-Dockerize the program. It should execute the Python code
+(Transition the code to Docker Programming Language?)
+
+Tentative
+-Host it on a Linux Box 
+-Host said Box on AWS Cloud
